@@ -1,2 +1,9 @@
-# linux-security-basics
-Linux security commands, permissions and basic hardening notes
+# Linux Security Basics
+
+This repository contains my notes on Linux security basics and system hardening practices.
+
+## Topics
+- User permissions
+- File permissions
+- Basic security commands
+- Linux hardening fundamentals
